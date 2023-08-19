@@ -1,0 +1,32 @@
+{
+	"name": "bastion demo examples",
+	"version": "1.0.0",
+	"description": "",
+	"main": "dist/index.js",
+	"module": "dist/index.m.js",
+	"unpkg": "dist/index.umd.js",
+	"types": "dist/index.d.ts",
+	"scripts": {},
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": ""
+	},
+	"homepage": "",
+	"devDependencies": {
+		"@types/node": "^20.4.2",
+		"dotenv": "^16.3.1",
+		"typescript": "^5.1.6"
+	},
+	"dependencies": {
+		"@account-abstraction/contracts": "^0.6.0",
+		"@ethersproject/providers": "^5.7.2",
+		"axios": "^1.4.0",
+		"ethers": "^5.7.2"
+	}
+}
+
